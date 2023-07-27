@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandonVex
-- 👀 I’m interested in learning to program and the fundamentals of security
-- 🌱 I’m currently learning cybersecurity
+- 👀 Striving to become a DevOps engineer with AWS
+- 🌱 B.S. of Cybersecurity
 
 <!---
 BrandonVex/BrandonVex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
