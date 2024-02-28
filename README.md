@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'M Brandon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonvex&label=Profile%20views&color=0e75b6&style=flat" alt="brandonvex" /> </p>
 
-- I’m currently working on my [Cloud Resume Challenge](https://github.com/BrandonVex/Cloud-Resume-Challenge)
+- I’m currently working on my [Cloud Resume Challenge](https://github.com/BrandonVex/CloudResume)
 
 - I’m currently learning **AWS and Website Deployment**
 
