@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🤝 I’m looking for help with **Developing new skills!**
+- 🤝 I’m looking for help with **Learning New Codes!**
 
 - Website! [brandonkresume.com](brandonkresume.com)
 
