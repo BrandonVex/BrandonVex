@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AWS Cloud Resume](https://github.com/BrandonVex/CloudResume)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS.**
 
 - 🤝 I’m looking for help with **Learning New Codes!**
 
