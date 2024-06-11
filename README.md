@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Learning New Codes!**
 
-- Website! [brandonkresume.com](brandonkresume.com)
+- Website! [https://brandonkresume.com](brandonkresume.com)
 
 - 💬 Ask me about **Nothing! I'm asking you the questions instead.**
 
