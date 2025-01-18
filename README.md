@@ -9,19 +9,17 @@ I'm a Cybersecurity Student
 ## 🛠 Skills
 Javascript, HTML, CSS, Python, Bash, Shell Script, SQL
 
-Django, Terraform, Docker, Kubernetes, Windows, Linux, CI/CD
+Terraform, Docker, Kubernetes, Windows, Linux, CI/CD
 
-VMware, PuTty, Network Troubleshooting, Wireshark, Firewalls, Threat Analysis
+Network Troubleshooting, Wireshark, Firewalls, Threat Analysis
 
-AWS S3, RDS, EBS/EFS, Lambda, IAM, KMS, CloudFront, Aurora, Federations, Fargate, SNS/SQS/SES, DynamoDB, EC2
+AWS S3, RDS, EBS/EFS, Lambda, IAM, KMS, CloudFront, Aurora, SNS/SQS/SES, DynamoDB, EC2
 
 
 ## Basics
 👩‍💻 I'm currently working on 100 Days of Python
 
 🧠 I'm currently learning Python
-
-🤔 I'm looking for help with AWS Lambda
 
 ⚡️ Fun fact; I played ice hockey for 18 years
 
