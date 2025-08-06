@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brandon Kuffner!</h1>
-<h3 align="center">Cybersecurity Student | Cloud Engineer</h3>
+<h3 align="center">Cybersecurity Graduate | IT Support Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonvex&label=Profile%20views&color=0e75b6&style=flat" alt="brandonvex" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonvex" alt="brandonvex" /></a> </p>
 
-- 🔭 I’m currently working on **AWS - Solutions Architect Pro Exam**
+- 🔭 I’m currently working on **CCMA**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Networking**
 
 - 🤝 I’m looking for help with **Finding a job!**
 
