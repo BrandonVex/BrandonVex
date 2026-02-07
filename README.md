@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon Kuffner!</h1>
-<h3 align="center">Cybersecurity Graduate | IT Support Specialist</h3>
+<h3 align="center">B.Sc Cybersecurity | M.Sc in Homeland Security | IT Support Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonvex&label=Profile%20views&color=0e75b6&style=flat" alt="brandonvex" /> </p>
 
