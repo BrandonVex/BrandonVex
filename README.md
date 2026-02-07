@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonvex" alt="brandonvex" /></a> </p>
 
-- 🔭 I’m currently working on **CCMA**
+- 🔭 I’m currently working on **Masters Program**
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **Homeland Security**
 
-- 🤝 I’m looking for help with **Finding a job!**
+- 🤝 I’m looking for help with **Finding a reason to code again**
 
 - Website! [https://brandonkresume.com](https://brandonkresume.com)
 
